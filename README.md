@@ -14,3 +14,8 @@ Script 2 - IIS and SQL instances on domain
 ------------------------------------------
 
 Script searches servers on domain and returns servers with IIS or SQL installed and what version of each 
+
+Script 3 - Retrieve AD comp obj info
+-------------------------------------------------
+
+Script takes in list of hosts and returns specs of host
